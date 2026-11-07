@@ -1,5 +1,3 @@
-# technical-support-playbook
-Practical technical support workflows for investigating application, data and API-related issues.
 # Technical Support Playbook
 
 A collection of practical workflows and notes for investigating application, data and API-related support issues.
